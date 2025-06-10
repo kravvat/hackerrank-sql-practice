@@ -1,4 +1,4 @@
-## Select By ID
+## Select by ID
 
 **Category:** Basic Select  
 **Difficulty:** Easy  
@@ -7,18 +7,18 @@
 
 ### Summary
 
-This task focuses on retrieving a specific row from the `STATION` table where the `ID` matches a given value.
+This task focuses on selecting all columns from the `CITY` table where the `ID` matches a specific value (e.g., `1661`). It’s a simple example of using a `WHERE` clause to filter by primary key.
 
 ### Schema
 
-The `STATION` table contains the following columns:
+The `CITY` table contains the following columns:
 
-| Column   | Type    |
-|----------|---------|
-| ID       | INTEGER |
-| CITY     | STRING  |
-| STATE    | STRING  |
-| LAT_N    | INTEGER |
-| LONG_W   | INTEGER |
+| Column       | Type           |
+|--------------|----------------|
+| ID           | NUMBER         |
+| NAME         | VARCHAR2(17)   |
+| COUNTRYCODE  | VARCHAR2(3)    |
+| DISTRICT     | VARCHAR2(20)   |
+| POPULATION   | NUMBER         |
 
 > Note: This repository does **not** contain the full text of the task, as per HackerRank content guidelines.

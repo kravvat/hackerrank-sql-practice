@@ -7,18 +7,18 @@
 
 ### Summary
 
-This task requires retrieving all columns from the `CITY` table for rows where the `COUNTRYCODE` is `'JPN'`.
+This task focuses on selecting all columns from the `CITY` table for cities located in Japan (`CountryCode = 'JPN'`). It helps practice using the `WHERE` clause with string comparison.
 
 ### Schema
 
 The `CITY` table contains the following columns:
 
-| Column       | Type         |
-|--------------|--------------|
-| ID           | INTEGER      |
-| NAME         | VARCHAR(17)  |
-| COUNTRYCODE  | VARCHAR(3)   |
-| DISTRICT     | VARCHAR(20)  |
-| POPULATION   | INTEGER      |
+| Column       | Type           |
+|--------------|----------------|
+| ID           | NUMBER         |
+| NAME         | VARCHAR2(17)   |
+| COUNTRYCODE  | VARCHAR2(3)    |
+| DISTRICT     | VARCHAR2(20)   |
+| POPULATION   | NUMBER         |
 
 > Note: This repository does **not** contain the full text of the task, as per HackerRank content guidelines.
