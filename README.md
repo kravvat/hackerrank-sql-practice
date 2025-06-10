@@ -47,7 +47,6 @@ I'm using this repository to:
 ## 🔗 Connect with me
 
 - 💻 HackerRank: [kravvat_](https://www.hackerrank.com/profile/kravvat_)
-- 🌐 GitHub: [kravvat](https://github.com/kravvat)
 - 💼 LinkedIn: [Kacper Stec](https://www.linkedin.com/in/kacper-stec/)
 
 ---
