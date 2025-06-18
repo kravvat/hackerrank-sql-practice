@@ -46,8 +46,10 @@ I'm using this repository to:
 
 ## 🔗 Connect with me
 
-- 💻 HackerRank: [kravvat_](https://www.hackerrank.com/profile/kravvat_)
 - 💼 LinkedIn: [Kacper Stec](https://www.linkedin.com/in/kacper-stec/)
+- ⚔️ Boot.dev: [kravvat](https://www.boot.dev/u/kravvat)  
+- 💻 HackerRank: [kravvat_](https://www.hackerrank.com/profile/kravvat_)
+- 📫 Email: kacperstec3d@gmail.com
 
 ---
 
