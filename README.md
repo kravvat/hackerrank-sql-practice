@@ -54,4 +54,4 @@ I'm using this repository to:
 ---
 
 Thanks for visiting!  
-Happy querying! 🧠💡
+Have a great day and happy coding!
